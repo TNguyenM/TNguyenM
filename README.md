@@ -15,7 +15,7 @@ Frameworks: Ruby-on-Rails
 Languages: JavaScript, HTML, CSS
 Learning: Cassandra, CPP, Ruby, Node.js
 Hobbies: Cooking, Gaming, Tennis
-Commits: 25
-Stars: 5
+Commits: 36
+Stars: 11
 Discord: Matthew-N#0001
 ```
